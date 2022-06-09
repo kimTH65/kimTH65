@@ -7,8 +7,11 @@
 
 <div>
   <div>
-    <h5>Certifed2022/06/04 </h5>
-    <a href="https://www.credly.com/badges/b10a75a4-9520-4849-994b-d19da8cc2ece/public_url"><img src="https://user-images.githubusercontent.com/59690816/172753872-df5b3d75-e4a3-4e79-9812-22a5d31d5c71.png" height="200/></a>
+    
+    <a href="https://www.credly.com/badges/b10a75a4-9520-4849-994b-d19da8cc2ece/public_url">
+      <img src="https://user-images.githubusercontent.com/59690816/172753872-df5b3d75-e4a3-4e79-9812-22a5d31d5c71.png" height="200/>
+    </a>
+    <h6>Certifed 2022/06/04 </h6>
     
   </div> 
   <div>
