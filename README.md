@@ -1,7 +1,8 @@
 # 
+
 <div align="center"> 
   <img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaxogns6515">
-  <img  src="https://github-readme-stats.vercel.app/api?username=kimTH65" height="170">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kimTH65&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" " >
 </div>
 
 <div  width="50">
