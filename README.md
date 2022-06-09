@@ -4,7 +4,9 @@
 <img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaxogns6515">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=kimTH65&show_icons=true&include_all_commits=true&hide_border=true&bg_color=20,000066,000080,11f1f1&title_color=fff&text_color=fff"" >
 </div>
+
 <br>
+<hr>
 
 <div align="center" >   
 <a href="https://www.credly.com/badges/b10a75a4-9520-4849-994b-d19da8cc2ece/public_url">
