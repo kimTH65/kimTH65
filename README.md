@@ -10,11 +10,11 @@
 <br>
 <hr>
 
-<div align="center" >   
+<div align="left" >   
 <a href="https://www.credly.com/badges/b10a75a4-9520-4849-994b-d19da8cc2ece/public_url">
 <img align="left" margin-right="500" src="https://user-images.githubusercontent.com/59690816/172753872-df5b3d75-e4a3-4e79-9812-22a5d31d5c71.png" height="210"/></a>
                 
-<div align="left"> 
+<div align="center"> 
 <h3> I've used</h3>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp 
