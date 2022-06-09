@@ -1,7 +1,7 @@
 ### Kim TaeHoon 
 
-Experience
-<div>
+<h3>Experience</h3>
+<div align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>&nbsp   
@@ -30,7 +30,7 @@ Experience
   
 </div>
 <br>
-<div> 
+<div align="center"> 
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaxogns6515">
 </div>
 
