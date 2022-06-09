@@ -1,5 +1,5 @@
 
-<div align="center" width="500px">
+<div align="center" width="50">
 <h3>Experience</h3>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp 
@@ -30,7 +30,8 @@
 </div>
 <br>
 <div align="center"> 
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaxogns6515">
+<img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaxogns6515">
+<img  src="https://github-readme-stats.vercel.app/api?username=kimTH65" height="170">
 </div>
 
 
