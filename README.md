@@ -1,17 +1,15 @@
 # 
 
 <div align="center"> 
-<img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaxogns6515">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kimTH65&show_icons=true&include_all_commits=true&hide_border=true&bg_color=20,000066,000080,11f1f1&title_color=fff&text_color=fff"" >
+    <img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaxogns6515">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=kimTH65&show_icons=true&include_all_commits=true&hide_border=true&bg_color=20,000066,000080,11f1f1&title_color=fff&text_color=fff"" >
 </div>
 <br>
 
-<div align="left" >
-    <h6> Certifed 2022/06/04 </h6> 
-    <a href="https://www.credly.com/badges/b10a75a4-9520-4849-994b-d19da8cc2ece/public_url">
-      <img src="https://user-images.githubusercontent.com/59690816/172753872-df5b3d75-e4a3-4e79-9812-22a5d31d5c71.png" height="200"/>
-    </a>
-  <h3>I've used</h3>
+<div align="center" >   
+<img align="left"  src="https://user-images.githubusercontent.com/59690816/172753872-df5b3d75-e4a3-4e79-9812-22a5d31d5c71.png" height="200"/>
+  <div align="right">
+  <h3> I've used</h3>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>&nbsp   
@@ -37,6 +35,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/>&nbsp 
+ </div>
 </div>
 
 
