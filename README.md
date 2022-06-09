@@ -1,4 +1,8 @@
 # 
+<div align="center"> 
+  <img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaxogns6515">
+  <img  src="https://github-readme-stats.vercel.app/api?username=kimTH65" height="170">
+</div>
 
 <div  width="50">
   <div align="left">
@@ -34,10 +38,6 @@
   </div>
 </div>
 <br>
-<div align="center"> 
-<img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaxogns6515">
-<img  src="https://github-readme-stats.vercel.app/api?username=kimTH65" height="170">
-</div>
 
 
 
