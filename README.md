@@ -12,7 +12,7 @@
 
 <div align="center" >   
 <a href="https://www.credly.com/badges/b10a75a4-9520-4849-994b-d19da8cc2ece/public_url">
-<img align="left" margin-right="500" src="https://user-images.githubusercontent.com/59690816/172753872-df5b3d75-e4a3-4e79-9812-22a5d31d5c71.png" height="150"/></a>
+<img align="left" margin-right="500" src="https://user-images.githubusercontent.com/59690816/172753872-df5b3d75-e4a3-4e79-9812-22a5d31d5c71.png" height="160"/></a>
                 
 <div align="left"> 
 <h3> I've used</h3>
