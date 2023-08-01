@@ -1,5 +1,4 @@
-<h1>Kim TaeHoon</h1>
-<h3>金　泰勳</h3>
+<h1>金　泰勳(Kim TaeHoon)</h1>
 <br>
 
 <div align="left"> 
