@@ -1,5 +1,3 @@
-<h1>金　泰勳(Kim TaeHoon)</h1>
-
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=150&text=金泰勳(Kim%20TaeHoon)&fontAlign=17&fontSize=25&fontAlignY=20&color=gradient)
 
 <div align="left"> 
