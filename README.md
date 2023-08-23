@@ -37,14 +37,14 @@
 # 
 <div align="vertical" >
   <div align="left" >
-    <h3>Certification</h3>  
-    <h3>BackJoon</h3> 
-    
+    <h3>　Certification　　　　　　　<a href="https://www.acmicpc.net/problemset">BackJoon-Tier<a>
+    </h3>  
   </div>
    
   <div align="left" >
-    <a href="https://www.credly.com/badges/b10a75a4-9520-4849-994b-d19da8cc2ece/public_url">
-    <img margin-right="500" src="https://user-images.githubusercontent.com/59690816/172753872-df5b3d75-e4a3-4e79-9812-22a5d31d5c71.png" height="160"/></a>
+    <a margin-right = 100 href="https://www.credly.com/badges/b10a75a4-9520-4849-994b-d19da8cc2ece/public_url">
+    <img src="https://user-images.githubusercontent.com/59690816/172753872-df5b3d75-e4a3-4e79-9812-22a5d31d5c71.png" height="160"/>
+    </a>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaxogns6515"> 
   </div>
 </div>
