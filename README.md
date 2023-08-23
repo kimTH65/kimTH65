@@ -37,7 +37,7 @@
 # 
 <div align="vertical" >
   <div align="left" >
-    <h3>AWS-Certification
+    <h3>AWS - Certification
      <a>　　　　　　</a>
      <a href="https://www.acmicpc.net/problemset">BackJoon-Tier<a>
     </h3>  
