@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=150&text=金泰勳(Kim%20TaeHoon)&fontAlign=17&fontSize=25&fontAlignY=20&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=150&text=金%20泰勳(Kim%20TaeHoon)&fontAlign=17&fontSize=25&fontAlignY=20&color=gradient)
 
 <div align="left"> 
 <img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaxogns6515"> 
