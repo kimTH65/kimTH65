@@ -1,9 +1,9 @@
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=10:000080,100:FFFFFF&height=150&text=Kim%20TaeHoon(金%20泰勳)&fontAlign=20&rotate=0&fontAlignY=60&descAlign=70&descAlignY=44&fontSize=30)
  
 
-               
-<div align="left"> 
-<h3> I've used</h3>
+#           
+<div align="left" > 
+<h3> I've used </h3>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>&nbsp   
@@ -33,12 +33,20 @@
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/>&nbsp 
 </div>
-<br>
-<div align="left"> 
+
+#   
+<div>
+<h3>Certification</h3>  
 <a href="https://www.credly.com/badges/b10a75a4-9520-4849-994b-d19da8cc2ece/public_url">
-<img align="left" margin-right="500" src="https://user-images.githubusercontent.com/59690816/172753872-df5b3d75-e4a3-4e79-9812-22a5d31d5c71.png" height="160"/></a>   
+<img margin-right="500" src="https://user-images.githubusercontent.com/59690816/172753872-df5b3d75-e4a3-4e79-9812-22a5d31d5c71.png" height="160"/></a>
+</div>
+
+# 
+<div>
+<h3>BackJoon</h3> 
 <img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaxogns6515"> 
 </div>
+
  
 
 
