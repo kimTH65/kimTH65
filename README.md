@@ -1,15 +1,6 @@
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=10:000080,100:FFFFFF&height=150&text=金%20泰勳(Kim%20TaeHoon)&fontAlign=20&rotate=0&fontAlignY=60&descAlign=70&descAlignY=44&fontSize=30)
  
-<div align="left"> 
-<img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaxogns6515"> 
-</div>
- 
-<br>
 
-
-<div align="center" >   
-<a href="https://www.credly.com/badges/b10a75a4-9520-4849-994b-d19da8cc2ece/public_url">
-<img align="left" margin-right="500" src="https://user-images.githubusercontent.com/59690816/172753872-df5b3d75-e4a3-4e79-9812-22a5d31d5c71.png" height="160"/></a>
                 
 <div align="left"> 
 <h3> I've used</h3>
@@ -42,8 +33,13 @@
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/>&nbsp 
 </div>
-                                                                                                               
+<br>
+<div align="left"> 
+<a href="https://www.credly.com/badges/b10a75a4-9520-4849-994b-d19da8cc2ece/public_url">
+<img align="left" margin-right="500" src="https://user-images.githubusercontent.com/59690816/172753872-df5b3d75-e4a3-4e79-9812-22a5d31d5c71.png" height="160"/></a>   
+<img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaxogns6515"> 
 </div>
+ 
 
 
 
