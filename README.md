@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=10:000080,100:FFFFFF&height=150&text=Kim%20TaeHoon(金%20泰勳)&fontAlign=20&rotate=0&fontAlignY=60&descAlign=70&fontSize=30&fontColor=555555)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=10:000080,100:FFFFF3&height=150&text=Kim%20TaeHoon(金%20泰勳)&fontAlign=20&rotate=0&fontAlignY=80&descAlign=70&fontSize=30&fontColor=555555)
 
 #           
 <div align="center" > 
