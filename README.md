@@ -47,7 +47,7 @@
 
   <div align="middle">
     <h3>
-     <a href="https://www.acmicpc.net/">BackJoon - Tier<a>
+     BackJoon - Tier<a>
     </h3>  
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaxogns6515"> 
   </div>
