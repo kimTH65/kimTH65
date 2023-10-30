@@ -1,6 +1,5 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=10:000080,100:FFFFF3&height=150&text=Kim%20TaeHoon(金%20泰勳)&fontAlign=20&rotate=0&fontAlignY=80&descAlign=70&fontSize=30&fontColor=555555)
+![header](https://capsule-render.vercel.app/api?type=waving&color=10:000080,100:FFFFF3&height=150&text=Kim%20TaeHoon(金%20泰勳)&fontAlign=20&rotate=0&fontAlignY=20&descAlign=70&fontSize=30&fontColor=333355)
 
-#           
 <div align="center" > 
 <h3>Stacks </h3>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp 
