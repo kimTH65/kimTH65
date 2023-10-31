@@ -5,7 +5,6 @@
 <div align="lfet" > 
 <h3>Experience</h3>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp   
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/Andorid-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/ios-000000?style=flat-square&logo=ios&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp
