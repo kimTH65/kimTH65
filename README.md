@@ -11,7 +11,9 @@
 <div align="left" > 
 <h3>Experience</h3>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&&logo=OpenJDK&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&&logo=python&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&&logo=python&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp 
+<img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/JSP-FF2D20?style=flat-square&logo=JSP&logoColor=white"/>&nbsp   
 <img src="https://img.shields.io/badge/Unity-111111?style=flat-square&logo=Unity&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>&nbsp 
@@ -32,7 +34,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/>&nbsp 
-<img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/>&nbsp 
+
 </div>
 
 #
