@@ -2,17 +2,7 @@
 <div align="lfet" margin-left="10" > 
 <h3>Hands-On Experience</h3>
   <div align="center">
-<div align="center">
-<div align="center">
-<p>a</p>
-</div>
-<p>a</p>
-<p>b</p>
-</div>
-<p>a</p>
-<p>b</p>
-<p>c</p>
-</div>
+  
 <div align="center" > 
 <h3>Stacks </h3>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp 
