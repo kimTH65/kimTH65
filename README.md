@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=10:000080,100:FFFFF3&height=150&fontAlign=15&rotate=0&fontAlignY=30&descAlign=70&text=TaeHoon%20Kim&fontSize=30&fontColor=F6F6FF)
-<div align="lfet" > 
+<div align="left" > 
 <h3>Hands-On Experience</h3>
   <img src="https://img.shields.io/badge/ios-000000?style=flat-square&logo=ios&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp
 </div>
-<div align="lfet" > 
+<div align="left" > 
 <h3>Experience</h3>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp   
 <img src="https://img.shields.io/badge/Andorid-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp 
