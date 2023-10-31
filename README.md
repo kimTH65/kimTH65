@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/JSP-FF2D20?style=flat-square&logo=JSP&logoColor=white"/>&nbsp   
-  <img src="https://img.shields.io/badge/Seasar2-111111?style=flat-square&logo=Seasar2&logoColor=white"/>&nbsp   
 </div>
 <div align="left" > 
 <h3>Experience</h3>
