@@ -1,4 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=10:000080,100:FFFFF3&height=150&fontAlign=15&rotate=0&fontAlignY=30&descAlign=70&text=TaeHoon%20Kim&fontSize=30&fontColor=F6F6FF)
+<div align="lfet" margin-left="10" > 
+<h3>Hands-On Experience</h3>
+  <div align="center">
+<div align="center">
+<div align="center">
+<p>a</p>
+</div>
+<p>a</p>
+<p>b</p>
+</div>
+<p>a</p>
+<p>b</p>
+<p>c</p>
+</div>
 <div align="center" > 
 <h3>Stacks </h3>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp 
