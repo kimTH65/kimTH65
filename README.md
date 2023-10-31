@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=10:000080,100:FFFFF3&height=150&fontAlign=15&rotate=0&fontAlignY=30&descAlign=70&text=TaeHoon%20Kim&fontSize=30&fontColor=F6F6FF)
 <div align="left" > 
 <h3>Hands-On Experience</h3>
-  <img src="https://img.shields.io/badge/ios-000000?style=flat-square&logo=ios&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/ios-000000?style=flat-square&logo=apple&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Andorid-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp
@@ -11,10 +11,10 @@
 <div align="left" > 
 <h3>Experience</h3>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&&logo=OpenJDK&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&&logo=python&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&&logo=python&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/C-368CCB?style=flat-square&logo=C&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/>&nbsp 
-<img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white"/>&nbsp 
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/JSP-FF2D20?style=flat-square&logo=JSP&logoColor=white"/>&nbsp   
 <img src="https://img.shields.io/badge/Unity-111111?style=flat-square&logo=Unity&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>&nbsp 
@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/>&nbsp 
-
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>&nbsp 
 </div>
 
 #
