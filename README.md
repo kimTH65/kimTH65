@@ -1,13 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=10:000080,100:FFFFF3&height=150&fontAlign=15&rotate=0&fontAlignY=30&descAlign=70&text=TaeHoon%20Kim&fontSize=30&fontColor=F6F6FF)
-<div align="lfet" margin-left="10" > 
+<div align="lfet" > 
 <h3>Hands-On Experience</h3>
+</div>
+<div align="lfet" > 
+<h3>Experience</h3>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp   
+</div>
   <div align="center">
   
 <div align="center" > 
 <h3>Stacks </h3>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>&nbsp   
+
 <img src="https://img.shields.io/badge/Andorid-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/ios-000000?style=flat-square&logo=ios&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp
