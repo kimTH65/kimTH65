@@ -44,15 +44,20 @@
 
 #
 
-<div align="left" >
-<h3>Qualification</h3>
+<div align="left">
+  <h3>Certification</h3>
   <a href="https://www.credly.com/badges/b10a75a4-9520-4849-994b-d19da8cc2ece/public_url">
     <img src="https://user-images.githubusercontent.com/59690816/172753872-df5b3d75-e4a3-4e79-9812-22a5d31d5c71.png" height="170"/>
   </a>
-  <a>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaxogns6515"> 
-  </a>
 </div>
+
+#
+
+<div align="left">
+  <h3>Coding Tier(BackJoon)</h3>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaxogns6515"> 
+</div>
+
   
 
 
