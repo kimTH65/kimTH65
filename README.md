@@ -6,10 +6,12 @@
   <img src="https://img.shields.io/badge/Andorid-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/JSP-FF2D20?style=flat-square&logo=JSP&logoColor=white"/>&nbsp   
+  <img src="https://img.shields.io/badge/Seasar2-111111?style=flat-square&logo=Seasar2&logoColor=white"/>&nbsp   
 </div>
 <div align="left" > 
 <h3>Experience</h3>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp   
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-111111?style=flat-square&logo=Unity&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>&nbsp 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp 
