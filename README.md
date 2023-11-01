@@ -52,7 +52,7 @@
   </a>
   <div align ="left">
     Knowledge used to obtain a this certificate : 
-    <a href="https://github.com/kimTH65/AWS/tree/main"> AWS</a>
+    <a href="https://github.com/kimTH65/AWS/tree/main"> AWS(kimTH65)</a>
   </div>
 </div>
 
