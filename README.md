@@ -51,7 +51,6 @@
     <img src="https://user-images.githubusercontent.com/59690816/172753872-df5b3d75-e4a3-4e79-9812-22a5d31d5c71.png" height="170"/>
   </a>
   <div align ="left">
-    Knowledge used to obtain a this certificate : 
     <a href="https://github.com/kimTH65/AWS/tree/main"> AWS-Solution-Architect-Knowledge(kimTH65)</a>
   </div>
 </div>
