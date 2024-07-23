@@ -3,7 +3,6 @@
 <h3>Hands-On Experience</h3>
   <img src="https://img.shields.io/badge/ios-000000?style=flat-square&logo=apple&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Andorid-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Seasar2-005394?style=flat-square&logo=JSP&logoColor=white"/>&nbsp
@@ -14,6 +13,7 @@
 
 <div align="left" > 
 <h3>Experience</h3>
+  <img src="https://img.shields.io/badge/Andorid-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&&logo=OpenJDK&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&&logo=python&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/C-368CCB?style=flat-square&logo=C&logoColor=white"/>&nbsp 
