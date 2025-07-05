@@ -46,7 +46,7 @@
 #
 
 <h3>Certification</h3>
-<div align="left">
+<div align="left" height="150">
   
   <a href="https://www.credly.com/badges/b10a75a4-9520-4849-994b-d19da8cc2ece/public_url">
     <img src="https://user-images.githubusercontent.com/59690816/172753872-df5b3d75-e4a3-4e79-9812-22a5d31d5c71.png" height="150"/>
