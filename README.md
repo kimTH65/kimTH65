@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Seasar2-005394?style=flat-square&logo=JSP&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/dynamics365-0B53CE?style=flat-square&logo=dynamics365&logoColor=white"/>&nbsp   
+  <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=CSharp&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp 
 </div>
 
 #
@@ -17,10 +19,8 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&&logo=OpenJDK&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&&logo=python&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/C-368CCB?style=flat-square&logo=C&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=CSharp&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/JSP-FF2D20?style=flat-square&logo=JSP&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp 
   <br>
